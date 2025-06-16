@@ -40,15 +40,11 @@ springboot-terraform-demo/
 ## 🚀 開發/執行說明
 
 前置需求
-JDK 17+
+JDK 21+
 
-Maven 3.8+
+Gradle 8.0+
 
-Terraform CLI（已加入系統 PATH）
-
-欲使用之 provider plugin（第一次執行會自動下載）
-
-若用 Hyper-V，請在 Windows 上執行，並啟用 Hyper-V 功能
+Terraform CLI（1.12.1）
 
 ---
 
